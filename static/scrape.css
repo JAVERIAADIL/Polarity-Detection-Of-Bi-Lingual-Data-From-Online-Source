@@ -1,0 +1,37 @@
+/* static/css/prediction_and_analysis.css */
+
+/* Main Content Styles */
+h1 {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+
+  /* Button Styles */
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  /* Additional Styles */
+.content {
+    margin-left: 270px; /* Adjust this value to create space for the sidebar */
+    margin-top: 80px; /* Add margin to move content below the header and above the sidebar */
+    padding: 20px;
+    background-color: #fff; /* Add a background color to the content to distinguish it from the sidebar */
+    border-radius: 5px; /* Add border radius for a cleaner look */
+  }
